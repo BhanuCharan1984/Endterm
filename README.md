@@ -1,4 +1,4 @@
-# Accio Alpha midterm submission
+# Accio Alpha endterm submission
 We were given two assignments in first week and only one required coding...week 2 and 3 we had one assignment each...and they require coding...
 # Week 1
 Week 1 covered basics of python libraries(Numpy,Matploltlib and pandas) and probability and statistics. The file Numpy assignment.ipynb in this repository is my solution for the assignment given that week. The other assignment was on probability and statistics.
